@@ -22,7 +22,7 @@ public class UserServiceStub implements UserService {
 	}
 
 
-	@Override
+//	@Override
 	public List<UserAddress> getUserAddressList(String userId) {
 		// TODO Auto-generated method stub
 		System.out.println("UserServiceStub.....");

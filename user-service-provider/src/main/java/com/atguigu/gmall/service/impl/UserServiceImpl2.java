@@ -8,7 +8,7 @@ import com.atguigu.gmall.service.UserService;
 
 public class UserServiceImpl2 implements UserService {
 
-	@Override
+//	@Override
 	public List<UserAddress> getUserAddressList(String userId) {
 		System.out.println("UserServiceImpl.....new...");
 		// TODO Auto-generated method stub
